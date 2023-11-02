@@ -1,7 +1,7 @@
 # Hi, my name is Stefan! :wave:
 
-
-- *Software Engineer (VxRail|MCP) at Dell* :keyboard: 
+- *Software Engineer at SoftwareONE* :keyboard:
+- *EX Software Engineer (VxRail|MCP) at Dell* :keyboard: 
 - *Tattoo Artist* :writing_hand: :art: :syringe:
 - *Geochemist* :alembic: :microscope:
 
